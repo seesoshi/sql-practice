@@ -1,0 +1,9 @@
+# временные файлы и локальные артефакты
+.pgtest/
+*.log
+*.tmp
+
+# системный мусор
+Thumbs.db
+desktop.ini
+.DS_Store
